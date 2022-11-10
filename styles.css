@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+#skills{
+    color:rgb(51, 181, 51)
+    font-width:brown;
+}
+#projects{
+    color:blueviolet;
+    font-width:aliceblue;
+}
